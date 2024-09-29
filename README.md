@@ -11,4 +11,5 @@
 - _If the player collides with any of those obstacles the game will end._
   
 - _A score system will keep track of the obstacles the player manages to evade._
+  
 - _Also, a high score system is in the game where players will be able to save their high score for the play through and see if they can beat it on the next play._
