@@ -6,7 +6,7 @@
   
 - **_Rules of this game is to use the space key to jump between the top and bottom platforms._**
   
-- _There are two obstacles that placed on both platforms, and they will be moving towards the player._
+- **_There are two obstacles that placed on both platforms, and they will be moving towards the player._**
   
 - _If the player collides with any of those obstacles the game will end._
   
