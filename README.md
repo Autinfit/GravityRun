@@ -1,6 +1,6 @@
 # **_GravityRun_**
 
-## **_Create a Gravity Run Game in Windows Form and Visual Studio_**
+## **_Create a Gravity Run Game in Windows Form & Visual Studio_**
 
 - **_In this tutorial we will be making a fun game using windows, .net, C# & visual studio. We will not be using any third-party framework for this game._**
   
