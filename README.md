@@ -13,3 +13,15 @@
 - **_A score system will keep track of the obstacles the player manages to evade._**
   
 - **_Also, a high score system is in the game where players will be able to save their high score for the play through and see if they can beat it on the next game._**
+Cree un juego Gravity Run en Windows Form y Visual Studio
+En este tutorial crearemos un juego divertido usando Windows, .net, C# y Visual Studio. No utilizaremos ningún marco de terceros para este juego.
+
+Las reglas de este juego son usar la tecla espacio para saltar entre las plataformas superior e inferior.
+
+Hay 2 obstáculos colocados en ambas plataformas y se moverán hacia el jugador.
+
+Si el jugador choca con alguno de esos obstáculos, el juego terminará.
+
+Un sistema de puntuación realizará un seguimiento de los obstáculos que el jugador logra evadir.
+
+Además, hay un sistema de puntuación alta en el juego donde los jugadores podrán guardar su puntuación más alta para el juego y ver si pueden superarla en el siguiente juego.
