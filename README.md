@@ -14,7 +14,7 @@
   
 - **_Also, a high score system is in the game where players will be able to save their high score for the play through and see if they can beat it on the next game._**
 
-Traducido del español:
+_Traducido del español:_
 
 ## Cree un juego Gravity Run en Windows Form y Visual Studio
 
