@@ -16,7 +16,7 @@
 
 **_Traducido del español:_**
 
-## Cree un juego Gravity Run en Windows Form y Visual Studio
+## Cree un juego Gravity Run en Windows Form & Visual Studio
 
 _En este tutorial crearemos un juego divertido usando Windows, .net, C# y Visual Studio. No utilizaremos ningún marco de terceros para este juego._
 
