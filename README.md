@@ -18,7 +18,7 @@
 
 ## Cree un juego Gravity Run en Windows Form y Visual Studio
 
-En este tutorial crearemos un juego divertido usando Windows, .net, C# y Visual Studio. No utilizaremos ningún marco de terceros para este juego.
+_En este tutorial crearemos un juego divertido usando Windows, .net, C# y Visual Studio. No utilizaremos ningún marco de terceros para este juego._
 
 Las reglas de este juego son usar la tecla espacio para saltar entre las plataformas superior e inferior.
 
