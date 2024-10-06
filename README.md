@@ -22,7 +22,7 @@
 
 **_Las reglas de este juego son usar la tecla espacio para saltar entre las plataformas superior e inferior._**
 
-_Hay 2 obstáculos colocados en ambas plataformas y se moverán hacia el jugador._
+**_Hay 2 obstáculos colocados en ambas plataformas y se moverán hacia el jugador._**
 
 Si el jugador choca con alguno de esos obstáculos, el juego terminará.
 
