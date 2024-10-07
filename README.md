@@ -20,7 +20,7 @@
 
 - **_En este tutorial crearemos un juego divertido usando Windows, .net, C# y Visual Studio. No utilizaremos ningún marco de terceros para este juego._**
 
-**_Las reglas de este juego son usar la tecla espacio para saltar entre las plataformas superior e inferior._**
+- **_Las reglas de este juego son usar la tecla espacio para saltar entre las plataformas superior e inferior._**
 
 **_Hay 2 obstáculos colocados en ambas plataformas y se moverán hacia el jugador._**
 
