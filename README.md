@@ -26,6 +26,6 @@
 
 - Si el jugador choca con alguno de esos obstáculos, el juego terminará.
 
-Un sistema de puntuación realizará un seguimiento de los obstáculos que el jugador logra evadir.
+- Un sistema de puntuación realizará un seguimiento de los obstáculos que el jugador logra evadir.
 
 Además, hay un sistema de puntuación alta en el juego donde los jugadores podrán guardar su puntuación más alta para el juego y ver si pueden superarla en el siguiente juego.
