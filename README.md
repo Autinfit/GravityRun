@@ -24,7 +24,7 @@
 
 - **_Hay 2 obstáculos colocados en ambas plataformas y se moverán hacia el jugador._**
 
-- _Si el jugador choca con alguno de esos obstáculos, el juego terminará._
+- **_Si el jugador choca con alguno de esos obstáculos, el juego terminará._**
 
 - Un sistema de puntuación realizará un seguimiento de los obstáculos que el jugador logra evadir.
 
