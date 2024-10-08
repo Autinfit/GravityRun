@@ -28,4 +28,4 @@
 
 - **_Un sistema de puntuación realizará un seguimiento de los obstáculos que el jugador logra evadir._**
 
-- Además, hay un sistema de puntuación alta en el juego donde los jugadores podrán guardar su puntuación más alta para el juego y ver si pueden superarla en el siguiente juego.
+- _Además, hay un sistema de puntuación alta en el juego donde los jugadores podrán guardar su puntuación más alta para el juego y ver si pueden superarla en el siguiente juego._
