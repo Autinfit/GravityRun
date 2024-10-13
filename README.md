@@ -3,6 +3,7 @@
 ## _Create your own Gravity Run Game in Windows Forms & Visual Studio_
 
 - **_In this tutorial we will be making a fun game using Windows, .Net, C# & Visual Studio.
+
 - We will not be using any third-party framework for this game._**
   
 - **_Rules of this game is to use the space key to jump between the top and bottom platforms._**
