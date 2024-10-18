@@ -20,7 +20,7 @@
 
 ## _Crea tu propio juego Gravity Run en Windows Form & Visual Studio_
 
-- **_En este tutorial crearemos un juego divertido usando Windows, .Net, C# y Visual Studio._
+- **_En este tutorial crearemos un juego divertido usando Windows, .Net, C# y Visual Studio._**
 
 - **_No utilizaremos ningún marco de terceros para este juego._**
 
