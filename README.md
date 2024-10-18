@@ -1,4 +1,4 @@
-# _GravityRun_
+# _Gravity/Run_
 
 ## _Create your own Gravity Run Game in Windows Forms & Visual Studio_
 
